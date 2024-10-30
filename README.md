@@ -8,4 +8,8 @@
 Компіляція програми та її вигляд:<br/>
 ![image](https://github.com/user-attachments/assets/631e7c9c-73c6-4b74-9f06-41e4db9d9e65)
 <br/>
+## Завдання №2 / Task 2
+Відправити з сервера на клієнт масив чисел, відсортувати їх за зростанням та повернути на сервер <br/>
 
+Компіляція програми та її вигляд:<br/>
+![image](https://github.com/user-attachments/assets/d8ad6e56-10bc-4949-aa64-7d527e1d5079)
