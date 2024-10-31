@@ -17,7 +17,9 @@
 ## Додаткове завдання / Additional Task
 "На клієнті пишемо англійські слова, а на сервер повертаються вже перекладені на українську слова"
 
-_В проекті використовується API DeepL через DeepL.net в NuGet_
+_В проекті використовується API DeepL через DeepL.net в NuGet_ <br/>
+Обов'язково встановити ![image](https://github.com/user-attachments/assets/307eb4b5-7a62-4508-9ad2-0979383d8334)
+
 
 Компіляція програми та її вигляд:<br/>
 ![image](https://github.com/user-attachments/assets/7af75f1c-5d15-4fa9-aceb-92ea826b45e0) <br/>
