@@ -13,3 +13,13 @@
 
 Компіляція програми та її вигляд:<br/>
 ![image](https://github.com/user-attachments/assets/d8ad6e56-10bc-4949-aa64-7d527e1d5079)
+
+## Додаткове завдання / Additional Task
+"На клієнті пишемо англійські слова, а на сервер повертаються вже перекладені на українську слова"
+
+_В проекті використовується API DeepL через DeepL.net в NuGet_
+
+Компіляція програми та її вигляд:<br/>
+![image](https://github.com/user-attachments/assets/7af75f1c-5d15-4fa9-aceb-92ea826b45e0) <br/>
+![image](https://github.com/user-attachments/assets/420666ad-1572-4f96-904d-499bf6d43936)
+
